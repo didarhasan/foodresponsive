@@ -1,0 +1,5 @@
+@media (max-width=575px){
+    .nav-item {
+        padding: 0px;
+    }
+}
